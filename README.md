@@ -21,8 +21,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SecureFileShare.git
-    cd SecureFileShare
+    git clone https://github.com/Krupakkaran/TunnelSecureFile.git
+    cd wget-share
     ```
 
 2. Install the required dependencies:
